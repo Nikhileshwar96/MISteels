@@ -1,3 +1,265 @@
 body{
-    background-color: white;
+    background-color : white;
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
 }
+
+body .container-fluid{
+    padding-left: 0px;
+}
+
+.banner{
+ width: 100%;
+ height: 480px;
+ margin-left: 0px;
+ margin-right: 0px;
+ background-image: url("../images/banner.png");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.row .active-product-content{
+ background-image: url("../images/msequsl_table.png");
+  background-position: center;
+ background-repeat: no-repeat;
+ background-size: contain;
+}
+
+td:first-child { border-left: none; }
+
+th:first-child { border-left: none; }
+
+.card-img-top{
+  max-height:100%; max-width:100%;
+}
+
+.spec_table_scroll{
+  overflow : auto;
+}
+
+#title1{
+  color:#f00;
+  margin: 15px 3px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#Contact{
+  margin: 20px;
+  text-align: center;
+}
+
+.contact-form{
+  margin-top: 20px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+h10{
+  color: #f00;
+  font-weight: bold;
+}
+
+.form-group{
+  margin: 10px;
+}
+
+.active-product-content button{
+  border-radius: 50%;
+  margin: 0px 15px;
+  position: relative;
+  font-size: 25px;
+  size: 30px;
+  top:150px;
+  left:50px;
+  width: 40px;
+  border: solid 1px #ddd;
+  height: 40px;
+}
+
+.active-product-content button :focus{
+  border: none;
+}
+
+td, th{
+  border-left: 1px solid;
+  height: 40px;
+  text-align: center;
+}
+
+.active-product-content{
+  height:50%;
+  min-height: 50%;
+}
+
+.products{
+  width:80%;
+  margin:auto;
+}
+
+body .container-fluid nav{
+    padding-left: 10%;
+}
+
+.navbar-nav .nav-item{
+margin-left:30px;
+    margin-right:30px;
+}
+
+.about-us-header{
+    text-align: center;
+}
+
+.navbar-nav .nav-item .nav-link, .navbar-light .navbar-nav .nav-link:focus{
+    color:#fff;
+  }
+
+.navbar-nav .nav-item .nav-link:hover, .navbar-light .navbar-nav .active>.nav-link, .navbar-nav .active .nav-link{
+    color:#aaa;
+    opacity: 0.9;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .bg-image {
+    background-image: url("../images/about_us_blur.jpg");
+    height: 80%; 
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-size: cover;
+  }
+
+  .product-bg-image{
+    background-color: #f0ede6;
+  }
+  
+  .bg-text {
+    border-radius: 5px;
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    z-index: 2;
+    width: 50%;
+    height: 60%;
+    margin: 10% 25%;
+    padding: 20px;
+    left:10%;
+   
+  }
+
+  .navbar-light .navbar-toggler{
+  color:#fff !important;
+}
+
+.headertag{
+  height:100%;
+  margin-top: -90px;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.tagline{
+  width: 100%;
+  vertical-align: center;
+  text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+   color: white; /* Fallback color */
+}
+
+.spec_table_contain{
+  margin:20px 10px;
+}
+
+.product-heading{
+  margin: auto;
+  margin-top:20px;
+  margin-bottom:20px;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.product{
+  background-image: url("../images/banner.png");
+}
+
+
+/* .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:red;
+    font-size: 30px;
+    font-weight: 600;
+
+  }
+.card-style{
+    font-size: 25px;
+    color: red;
+      font-weight: 500;8
+      font-family: system-ui;
+}
+
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    color:red;
+    font-size: 20px;
+    font-weight: 500;
+    width: 450px;
+
+  }
+
+  .heading{
+    
+    font-size: 55px;
+    
+  color: red;
+   left: 500px;
+ 
+    font-weight: 500;
+    font-family: system-ui;
+   
+}
+
+  .section{
+      font-size: 55px;
+    color: red;
+      height:350px;
+      font-weight: 500;
+      font-family: system-ui;
+  }
+  
+  .section2{
+    font-size: 55px;
+    text-align: center;
+  color: red;
+  font-weight: bold;
+    height:350px;
+    font-family: system-ui;
+   
+}
+
+  .specification{
+    font-size: 15px;
+      font-weight: 600;
+      font-family: system-ui;
+      padding:30px;
+  }
+
+  .backgroundImg{
+      background-image: url('../specification.jpg');
+  }
+
+   */
