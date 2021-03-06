@@ -4,7 +4,7 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 890,
+        "x": 875,
         "y": 70,
         "data": "Left ear"
       },
@@ -160,8 +160,8 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 425,
-        "y": 435,
+        "x": 435,
+        "y": 445,
         "data": "Spine"
       }
     ]
@@ -171,7 +171,7 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 425,
+        "x": 435,
         "y": 515,
         "data": "Sacrum"
       }
@@ -187,7 +187,7 @@
         "data": "left trochander"
       },
       {
-        "x": 380,
+        "x": 515,
         "y": 540,
         "data": "right trochander"
       }
@@ -198,12 +198,12 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 420,
+        "x": 410,
         "y": 590,
         "data": "Ischial left"
       },
       {
-        "x": 595,
+        "x": 490,
         "y": 590,
         "data": "Ischial right"
       }
