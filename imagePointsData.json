@@ -1,244 +1,243 @@
 [
-  {
-    "displayText": "Ears",
-    "dissplaySide": "right",
-    "points": [
-      {
-        "left": 907,
-        "top": 60,
-        "data": "Left ear"
-      },
-      {
-        "left": 1030,
-        "top": 60,
-        "data": "Right ear"
-      }
-    ]
-  },
-  {
-    "displayText": "Shoulders",
-    "dissplaySide": "right",
-    "points": [
-      {
-        "left": 836,
-        "top": 190,
-        "data": "Left shoulder"
-      },
-      {
-        "left": 1100,
-        "top": 190,
-        "data": "Right shoulder"
-      }
-    ]
-  },
-  {
-    "displayText": "Rib cage",
-    "dissplaySide": "right",
-    "points": [
-      {
-        "left": 937,
-        "top": 325,
-        "data": "Left rib cage"
-      },
-      {
-        "left": 1010,
-        "top": 325,
-        "data": "Right rib cage"
-      }
-    ]
-  },
-  {
-    "displayText": "Hip",
-    "dissplaySide": "right",
-    "points": [
-      {
-        "left": 890,
-        "top": 463,
-        "data": "Left hip"
-      },
-      {
-        "left": 1050,
-        "top": 463,
-        "data": "Right hip"
-      }
-    ]
-  },
-  {
-    "displayText": "Knees",
-    "dissplaySide": "right",
-    "points": [
-      {
-        "left": 919,
-        "top": 790,
-        "data": "Left knee"
-      },
-      {
-        "left": 1024,
-        "top": 790,
-        "data": "Right knee"
-      }
-    ]
-  },
-  {
-    "displayText": "Ankles",
-    "dissplaySide": "right",
-    "points": [
-      {
-        "left": 933,
-        "top": 1037,
-        "data": "Left ankle"
-      },
-      {
-        "left": 1006,
-        "top": 1037,
-        "data": "Right ankle"
-      }
-    ]
-  },
-  {
-    "displayText": "Toes",
-    "dissplaySide": "right",
-    "points": [
-      {
-        "left": 923,
-        "top": 1090,
-        "data": "Left toe"
-      },
-      {
-        "left": 1018,
-        "top": 1090,
-        "data": "Right toe"
-      }
-    ]
-  },
-  {
-    "displayText": "Back of head",
-    "dissplaySide": "left",
-    "points": [
-      {
-        "left": 480,
-        "top": 50,
-        "data": "Back of head"
-      }
-    ]
-  },
-  {
-    "displayText": "Shoulder blades",
-    "dissplaySide": "left",
-    "points": [
-      {
-        "left": 426,
-        "top": 190,
-        "data": "Shoulder blade left"
-      },
-      {
-        "left": 533,
-        "top": 189,
-        "data": "Shoulder blade right"
-      }
-    ]
-  },
-  {
-    "displayText": "Elbows",
-    "dissplaySide": "left",
-    "points": [
-      {
-        "left": 325,
-        "top": 398,
-        "data": "Elbow left"
-      },
-      {
-        "left": 634,
-        "top": 398,
-        "data": "Elbow right"
-      }
-    ]
-  },
-
-  {
-    "displayText": "Spine",
-    "dissplaySide": "left",
-    "points": [
-      {
-        "left": 479,
-        "top": 463,
-        "data": "Spine"
-      }
-    ]
-  },
-  {
-    "displayText": "Sacrum",
-    "dissplaySide": "left",
-    "points": [
-      {
-        "left": 479,
-        "top": 510,
-        "data": "Sacrum"
-      }
-    ]
-  },
-  {
-    "displayText": "TroChander",
-    "dissplaySide": "left",
-    "points": [
-      {
-        "left": 420,
-        "top": 545,
-        "data": "left trochander"
-      },
-      {
-        "left": 545,
-        "top": 545,
-        "data": "right trochander"
-      }
-    ]
-  },
-  {
-    "displayText": "Ischial tuberosity",
-    "dissplaySide": "left",
-    "points": [
-      {
-        "left": 447,
-        "top": 592,
-        "data": "Ischial left"
-      },
-      {
-        "left": 525,
-        "top": 592,
-        "data": "Ischial right"
-      }
-    ]
-  },
-  {
-    "displayText": "Ankles",
-    "dissplaySide": "left",
-    "points": [
-      {
-        "left": 445,
-        "top": 1037,
-        "data": "Ankle left"
-      },
-      {
-        "left": 517,
-        "top": 1037,
-        "data": "Ankle right"
-      }
-    ]
-  },
-  {
-    "displayText": "Heels",
-    "dissplaySide": "left",
-    "points": [
-      {
-        "left": 444,
-        "top": 1090,
-        "data": "Heel left"
-      },
-      {
-        "left": 517,
-        "top": 1090,
-        "data": "Heel right"
-      }
-    ]
-  }
+    {
+        "displayText": "Ears",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 907,
+                "top": 60,
+                "data": "Left ear"
+            },
+            {
+                "left": 1030,
+                "top": 60,
+                "data": "Right ear"
+            }
+        ]
+    },
+    {
+        "displayText": "Shoulders",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 836,
+                "top": 190,
+                "data": "Left shoulder"
+            },
+            {
+                "left": 1100,
+                "top": 190,
+                "data": "Right shoulder"
+            }
+        ]
+    },
+    {
+        "displayText": "Rib cage",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 937,
+                "top": 325,
+                "data": "Left rib cage"
+            },
+            {
+                "left": 1010,
+                "top": 325,
+                "data": "Right rib cage"
+            }
+        ]
+    },
+    {
+        "displayText": "Hip",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 890,
+                "top": 463,
+                "data": "Left hip"
+            },
+            {
+                "left": 1050,
+                "top": 463,
+                "data": "Right hip"
+            }
+        ]
+    },
+    {
+        "displayText": "Knees",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 919,
+                "top": 790,
+                "data": "Left knee"
+            },
+            {
+                "left": 1024,
+                "top": 790,
+                "data": "Right knee"
+            }
+        ]
+    },
+    {
+        "displayText": "Ankles",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 933,
+                "top": 1037,
+                "data": "Left ankle"
+            },
+            {
+                "left": 1006,
+                "top": 1037,
+                "data": "Right ankle"
+            }
+        ]
+    },
+    {
+        "displayText": "Toes",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 923,
+                "top": 1090,
+                "data": "Left toe"
+            },
+            {
+                "left": 1018,
+                "top": 1090,
+                "data": "Right toe"
+            }
+        ]
+    },
+    {
+        "displayText": "Back of head",
+        "dissplaySide": "left",
+        "points": [
+            {
+                "left": 480,
+                "top": 50,
+                "data": "Back of head"
+            }
+        ]
+    },
+    {
+        "displayText": "Shoulder blades",
+        "dissplaySide": "left",
+        "points": [
+            {
+                "left": 426,
+                "top": 190,
+                "data": "Shoulder blade left"
+            },
+            {
+                "left": 533,
+                "top": 189,
+                "data": "Shoulder blade right"
+            }
+        ]
+    },
+    {
+        "displayText": "Elbows",
+        "dissplaySide": "left",
+        "points": [
+            {
+                "left": 325,
+                "top": 398,
+                "data": "Elbow left"
+            },
+            {
+                "left": 634,
+                "top": 398,
+                "data": "Elbow right"
+            }
+        ]
+    },
+    {
+        "displayText": "Spine",
+        "dissplaySide": "left",
+        "points": [
+            {
+                "left": 479,
+                "top": 463,
+                "data": "Spine"
+            }
+        ]
+    },
+    {
+        "displayText": "Sacrum",
+        "dissplaySide": "left",
+        "points": [
+            {
+                "left": 479,
+                "top": 510,
+                "data": "Sacrum"
+            }
+        ]
+    },
+    {
+        "displayText": "TroChander",
+        "dissplaySide": "left",
+        "points": [
+            {
+                "left": 420,
+                "top": 545,
+                "data": "left trochander"
+            },
+            {
+                "left": 545,
+                "top": 545,
+                "data": "right trochander"
+            }
+        ]
+    },
+    {
+        "displayText": "Ischial tuberosity",
+        "dissplaySide": "left",
+        "points": [
+            {
+                "left": 447,
+                "top": 592,
+                "data": "Ischial left"
+            },
+            {
+                "left": 525,
+                "top": 592,
+                "data": "Ischial right"
+            }
+        ]
+    },
+    {
+        "displayText": "Ankles",
+        "dissplaySide": "left",
+        "points": [
+            {
+                "left": 445,
+                "top": 1037,
+                "data": "Ankle left"
+            },
+            {
+                "left": 517,
+                "top": 1037,
+                "data": "Ankle right"
+            }
+        ]
+    },
+    {
+        "displayText": "Heels",
+        "dissplaySide": "left",
+        "points": [
+            {
+                "left": 444,
+                "top": 1090,
+                "data": "Heel left"
+            },
+            {
+                "left": 517,
+                "top": 1090,
+                "data": "Heel right"
+            }
+        ]
+    }
 ]
