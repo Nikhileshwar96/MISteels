@@ -113,7 +113,7 @@
   },
   {
     "displayText": "Back of head",
-    "displaySide": "x",
+    "displaySide": "left",
     "points": [
       {
         "x": 480,
@@ -124,7 +124,7 @@
   },
   {
     "displayText": "Shoulder blades",
-    "displaySide": "x",
+    "displaySide": "left",
     "points": [
       {
         "x": 426,
@@ -140,7 +140,7 @@
   },
   {
     "displayText": "Elbows",
-    "displaySide": "x",
+    "displaySide": "left",
     "points": [
       {
         "x": 325,
@@ -157,7 +157,7 @@
 
   {
     "displayText": "Spine",
-    "displaySide": "x",
+    "displaySide": "left",
     "points": [
       {
         "x": 479,
@@ -168,7 +168,7 @@
   },
   {
     "displayText": "Sacrum",
-    "displaySide": "x",
+    "displaySide": "left",
     "points": [
       {
         "x": 479,
@@ -179,7 +179,7 @@
   },
   {
     "displayText": "TroChander",
-    "displaySide": "x",
+    "displaySide": "left",
     "points": [
       {
         "x": 420,
@@ -195,7 +195,7 @@
   },
   {
     "displayText": "Ischial tuberosity",
-    "displaySide": "x",
+    "displaySide": "left",
     "points": [
       {
         "x": 447,
@@ -211,7 +211,7 @@
   },
   {
     "displayText": "Ankles",
-    "displaySide": "x",
+    "displaySide": "left",
     "points": [
       {
         "x": 445,
@@ -227,7 +227,7 @@
   },
   {
     "displayText": "Heels",
-    "displaySide": "x",
+    "displaySide": "left",
     "points": [
       {
         "x": 444,
