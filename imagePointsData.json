@@ -9,7 +9,7 @@
         "data": "Left ear"
       },
       {
-        "x": 115,
+        "x": 1015,
         "y": 95,
         "data": "Right ear"
       }
@@ -20,7 +20,7 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 820,
+        "x": 830,
         "y": 225,
         "data": "Left shoulder"
       },
@@ -52,12 +52,12 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 875,
+        "x": 885,
         "y": 505,
         "data": "Left hip"
       },
       {
-        "x": 1025,
+        "x": 1035,
         "y": 505,
         "data": "Right hip"
       }
@@ -68,7 +68,7 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 815,
+        "x": 915,
         "y": 825,
         "data": "Left knee"
       },
@@ -85,7 +85,7 @@
     "points": [
       {
         "x": 920,
-        "y": 1015,
+        "y": 1040,
         "data": "Left ankle"
       },
       {
