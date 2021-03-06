@@ -116,7 +116,7 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 450,
+        "x": 440,
         "y": 55,
         "data": "Back of head"
       }
@@ -172,7 +172,7 @@
     "points": [
       {
         "x": 435,
-        "y": 515,
+        "y": 500,
         "data": "Sacrum"
       }
     ]
@@ -187,7 +187,7 @@
         "data": "left trochander"
       },
       {
-        "x": 515,
+        "x": 505,
         "y": 540,
         "data": "right trochander"
       }
@@ -203,7 +203,7 @@
         "data": "Ischial left"
       },
       {
-        "x": 490,
+        "x": 480,
         "y": 590,
         "data": "Ischial right"
       }
