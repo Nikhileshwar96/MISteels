@@ -1,0 +1,66 @@
+[
+    {
+        "displayText": "Ears",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 907,
+                "top": 60,
+                "data": "Left ear"
+            },
+            {
+                "left": 1030,
+                "top": 60,
+                "data": "Right ear"
+            }
+        ]
+    },
+    {
+        "displayText": "Shoulders",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 836,
+                "top": 190,
+                "data": "Left shoulder"
+            },
+            {
+                "left": 1100,
+                "top": 190,
+                "data": "Right shoulder"
+            }
+        ]
+    },
+    {
+        "displayText": "Rib cage",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 937,
+                "top": 325,
+                "data": "Left rib cage"
+            },
+            {
+                "left": 1010,
+                "top": 325,
+                "data": "Right rib cage"
+            }
+        ]
+    },
+    {
+        "displayText": "Hip",
+        "dissplaySide": "right",
+        "points": [
+            {
+                "left": 890,
+                "top": 463,
+                "data": "Left hip"
+            },
+            {
+                "left": 1050,
+                "top": 463,
+                "data": "Right hip"
+            }
+        ]
+    }
+]
