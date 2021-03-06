@@ -4,13 +4,13 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 875,
-        "y": 70,
+        "x": 900,
+        "y": 95,
         "data": "Left ear"
       },
       {
-        "x": 990,
-        "y": 70,
+        "x": 115,
+        "y": 95,
         "data": "Right ear"
       }
     ]
@@ -20,13 +20,13 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 795,
-        "y": 200,
+        "x": 820,
+        "y": 225,
         "data": "Left shoulder"
       },
       {
-        "x": 1050,
-        "y": 200,
+        "x": 1075,
+        "y": 225,
         "data": "Right shoulder"
       }
     ]
@@ -36,13 +36,13 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 895,
-        "y": 325,
+        "x": 920,
+        "y": 350,
         "data": "Left rib cage"
       },
       {
-        "x": 965,
-        "y": 325,
+        "x": 990,
+        "y": 350,
         "data": "Right rib cage"
       }
     ]
@@ -52,13 +52,13 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 850,
-        "y": 480,
+        "x": 875,
+        "y": 505,
         "data": "Left hip"
       },
       {
-        "x": 1000,
-        "y": 480,
+        "x": 1025,
+        "y": 505,
         "data": "Right hip"
       }
     ]
@@ -68,13 +68,13 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 890,
-        "y": 800,
+        "x": 815,
+        "y": 825,
         "data": "Left knee"
       },
       {
-        "x": 980,
-        "y": 800,
+        "x": 1005,
+        "y": 825,
         "data": "Right knee"
       }
     ]
@@ -84,13 +84,13 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 895,
+        "x": 920,
         "y": 1015,
         "data": "Left ankle"
       },
       {
-        "x": 970,
-        "y": 1015,
+        "x": 995,
+        "y": 1040,
         "data": "Right ankle"
       }
     ]
@@ -100,13 +100,13 @@
     "displaySide": "right",
     "points": [
       {
-        "x": 890,
-        "y": 1090,
+        "x": 915,
+        "y": 1115,
         "data": "Left toe"
       },
       {
-        "x": 980,
-        "y": 1090,
+        "x": 1005,
+        "y": 1115,
         "data": "Right toe"
       }
     ]
@@ -116,8 +116,8 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 440,
-        "y": 55,
+        "x": 465,
+        "y": 80,
         "data": "Back of head"
       }
     ]
@@ -127,13 +127,13 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 375,
-        "y": 195,
+        "x": 400,
+        "y": 220,
         "data": "Shoulder blade left"
       },
       {
-        "x": 505,
-        "y": 195,
+        "x": 530,
+        "y": 220,
         "data": "Shoulder blade right"
       }
     ]
@@ -143,13 +143,13 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 295,
-        "y": 390,
+        "x": 320,
+        "y": 415,
         "data": "Elbow left"
       },
       {
-        "x": 590,
-        "y": 390,
+        "x": 615,
+        "y": 415,
         "data": "Elbow right"
       }
     ]
@@ -160,8 +160,8 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 435,
-        "y": 445,
+        "x": 460,
+        "y": 470,
         "data": "Spine"
       }
     ]
@@ -171,8 +171,8 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 435,
-        "y": 500,
+        "x": 460,
+        "y": 525,
         "data": "Sacrum"
       }
     ]
@@ -182,13 +182,13 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 380,
-        "y": 540,
+        "x": 405,
+        "y": 565,
         "data": "left trochander"
       },
       {
-        "x": 505,
-        "y": 540,
+        "x": 530,
+        "y": 565,
         "data": "right trochander"
       }
     ]
@@ -198,13 +198,13 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 410,
-        "y": 590,
+        "x": 435,
+        "y": 615,
         "data": "Ischial left"
       },
       {
-        "x": 480,
-        "y": 590,
+        "x": 505,
+        "y": 615,
         "data": "Ischial right"
       }
     ]
@@ -214,13 +214,13 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 410,
-        "y": 1015,
+        "x": 435,
+        "y": 1040,
         "data": "Ankle left"
       },
       {
-        "x": 480,
-        "y": 1015,
+        "x": 505,
+        "y": 1040,
         "data": "Ankle right"
       }
     ]
@@ -230,13 +230,13 @@
     "displaySide": "left",
     "points": [
       {
-        "x": 410,
-        "y": 1090,
+        "x": 435,
+        "y": 1115,
         "data": "Heel left"
       },
       {
-        "x": 480,
-        "y": 1090,
+        "x": 505,
+        "y": 1115,
         "data": "Heel right"
       }
     ]
