@@ -240,5 +240,16 @@
         "data": "Heel right"
       }
     ]
+  },
+  {
+    "displayText": "Others",
+    "displaySide": "right",
+    "points": [
+      {
+        "x": 710,
+        "y": 1190,
+        "data": "Others"
+      }
+    ]
   }
 ]
