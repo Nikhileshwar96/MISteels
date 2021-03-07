@@ -1,42 +1,42 @@
 [
     {
-        "x": 1040,
+        "x": 1210,
         "y": 95,
         "width":60,
         "data": "Ears"
     },
     {
-        "x": 1100,
+        "x": 1210,
         "y": 225,
         "width":110,
         "data": "Shoulders"
     },
     {
-        "x": 1115,
+        "x": 1210,
         "y": 350,
         "width": 100,
         "data": "Rib cage"
     },
     {
-        "x": 1035,
+        "x": 1210,
         "y": 505,
         "width": 60,
         "data": "Hip"
     },
     {
-        "x": 1005,
+        "x": 1210,
         "y": 825,
         "width":80,
         "data": "Knees"
     },
     {
-        "x": 995,
+        "x": 1210,
         "y": 1040,
         "width": 80,
         "data": "Ankles"
     },
     {
-        "x": 1005,
+        "x": 1210,
         "y": 1115,
         "width": 60,
         "data": "Toes"
@@ -96,7 +96,7 @@
         "data": "Heels"
     },
     {
-        "x": 710,
+        "x": 1210,
         "y": 1190,
         "width":67,
         "data": "Others"
