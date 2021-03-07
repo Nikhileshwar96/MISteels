@@ -1,1 +1,87 @@
-
+[
+    {
+        "x": 1015,
+        "y": 95,
+        "data": "Ears"
+    },
+    {
+        "x": 1075,
+        "y": 225,
+        "data": "Shoulders"
+    },
+    {
+        "x": 990,
+        "y": 350,
+        "data": "Rib cage"
+    },
+    {
+        "x": 1035,
+        "y": 505,
+        "data": "Hip"
+    },
+    {
+        "x": 1005,
+        "y": 825,
+        "data": "Knees"
+    },
+    {
+        "x": 995,
+        "y": 1040,
+        "data": "Ankles"
+    },
+    {
+        "x": 1005,
+        "y": 1115,
+        "data": "Toes"
+    },
+    {
+        "x": 465,
+        "y": 80,
+        "data": "Back of head"
+    },
+    {
+        "x": 400,
+        "y": 220,
+        "data": "Shoulder blades"
+    },
+    {
+        "x": 320,
+        "y": 415,
+        "data": "Elbows"
+    },
+    {
+        "x": 460,
+        "y": 470,
+        "data": "Spine"
+    },
+    {
+        "x": 460,
+        "y": 525,
+        "data": "Sacrum"
+    },
+    {
+        "x": 405,
+        "y": 565,
+        "data": "TroChander"
+    },
+    {
+        "x": 435,
+        "y": 615,
+        "data": "Ischial tuberosity"
+    },
+    {
+        "x": 435,
+        "y": 1040,
+        "data": "Ankles"
+    },
+    {
+        "x": 435,
+        "y": 1115,
+        "data": "Heels"
+    },
+    {
+        "x": 710,
+        "y": 1190,
+        "data": "Others"
+    }
+]
