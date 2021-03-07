@@ -1,255 +1,152 @@
 [
-  {
-    "displayText": "Ears",
-    "displaySide": "right",
-    "points": [
-      {
+    {
         "x": 900,
         "y": 95,
         "data": "Left ear"
-      },
-      {
+    },
+    {
         "x": 1015,
         "y": 95,
         "data": "Right ear"
-      }
-    ]
-  },
-  {
-    "displayText": "Shoulders",
-    "displaySide": "right",
-    "points": [
-      {
+    },
+    {
         "x": 830,
         "y": 225,
         "data": "Left shoulder"
-      },
-      {
+    },
+    {
         "x": 1075,
         "y": 225,
         "data": "Right shoulder"
-      }
-    ]
-  },
-  {
-    "displayText": "Rib cage",
-    "displaySide": "right",
-    "points": [
-      {
+    },
+    {
         "x": 920,
         "y": 350,
         "data": "Left rib cage"
-      },
-      {
+    },
+    {
         "x": 990,
         "y": 350,
         "data": "Right rib cage"
-      }
-    ]
-  },
-  {
-    "displayText": "Hip",
-    "displaySide": "right",
-    "points": [
-      {
+    },
+    {
         "x": 885,
         "y": 505,
         "data": "Left hip"
-      },
-      {
+    },
+    {
         "x": 1035,
         "y": 505,
         "data": "Right hip"
-      }
-    ]
-  },
-  {
-    "displayText": "Knees",
-    "displaySide": "right",
-    "points": [
-      {
+    },
+    {
         "x": 915,
         "y": 825,
         "data": "Left knee"
-      },
-      {
+    },
+    {
         "x": 1005,
         "y": 825,
         "data": "Right knee"
-      }
-    ]
-  },
-  {
-    "displayText": "Ankles",
-    "displaySide": "right",
-    "points": [
-      {
+    },
+    {
         "x": 920,
         "y": 1040,
         "data": "Left ankle"
-      },
-      {
+    },
+    {
         "x": 995,
         "y": 1040,
         "data": "Right ankle"
-      }
-    ]
-  },
-  {
-    "displayText": "Toes",
-    "displaySide": "right",
-    "points": [
-      {
+    },
+    {
         "x": 915,
         "y": 1115,
         "data": "Left toe"
-      },
-      {
+    },
+    {
         "x": 1005,
         "y": 1115,
         "data": "Right toe"
-      }
-    ]
-  },
-  {
-    "displayText": "Back of head",
-    "displaySide": "left",
-    "points": [
-      {
+    },
+    {
         "x": 465,
         "y": 80,
         "data": "Back of head"
-      }
-    ]
-  },
-  {
-    "displayText": "Shoulder blades",
-    "displaySide": "left",
-    "points": [
-      {
+    },
+    {
         "x": 400,
         "y": 220,
         "data": "Shoulder blade left"
-      },
-      {
+    },
+    {
         "x": 530,
         "y": 220,
         "data": "Shoulder blade right"
-      }
-    ]
-  },
-  {
-    "displayText": "Elbows",
-    "displaySide": "left",
-    "points": [
-      {
+    },
+    {
         "x": 320,
         "y": 415,
         "data": "Elbow left"
-      },
-      {
+    },
+    {
         "x": 615,
         "y": 415,
         "data": "Elbow right"
-      }
-    ]
-  },
-
-  {
-    "displayText": "Spine",
-    "displaySide": "left",
-    "points": [
-      {
+    },
+    {
         "x": 460,
         "y": 470,
         "data": "Spine"
-      }
-    ]
-  },
-  {
-    "displayText": "Sacrum",
-    "displaySide": "left",
-    "points": [
-      {
+    },
+    {
         "x": 460,
         "y": 525,
         "data": "Sacrum"
-      }
-    ]
-  },
-  {
-    "displayText": "TroChander",
-    "displaySide": "left",
-    "points": [
-      {
+    },
+    {
         "x": 405,
         "y": 565,
         "data": "left trochander"
-      },
-      {
+    },
+    {
         "x": 530,
         "y": 565,
         "data": "right trochander"
-      }
-    ]
-  },
-  {
-    "displayText": "Ischial tuberosity",
-    "displaySide": "left",
-    "points": [
-      {
+    },
+    {
         "x": 435,
         "y": 615,
         "data": "Ischial left"
-      },
-      {
+    },
+    {
         "x": 505,
         "y": 615,
         "data": "Ischial right"
-      }
-    ]
-  },
-  {
-    "displayText": "Ankles",
-    "displaySide": "left",
-    "points": [
-      {
+    },
+    {
         "x": 435,
         "y": 1040,
         "data": "Ankle left"
-      },
-      {
+    },
+    {
         "x": 505,
         "y": 1040,
         "data": "Ankle right"
-      }
-    ]
-  },
-  {
-    "displayText": "Heels",
-    "displaySide": "left",
-    "points": [
-      {
+    },
+    {
         "x": 435,
         "y": 1115,
         "data": "Heel left"
-      },
-      {
+    },
+    {
         "x": 505,
         "y": 1115,
         "data": "Heel right"
-      }
-    ]
-  },
-  {
-    "displayText": "Others",
-    "displaySide": "right",
-    "points": [
-      {
+    },
+    {
         "x": 710,
         "y": 1190,
         "data": "Others"
-      }
-    ]
-  }
+    }
 ]
