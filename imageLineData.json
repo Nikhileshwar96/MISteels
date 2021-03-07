@@ -1,87 +1,104 @@
 [
     {
-        "x": 1015,
+        "x": 1040,
         "y": 95,
+        "width":195,
         "data": "Ears"
     },
     {
-        "x": 1075,
+        "x": 1100,
         "y": 225,
+        "width":110,
         "data": "Shoulders"
     },
     {
-        "x": 990,
+        "x": 1115,
         "y": 350,
+        "width": 95,
         "data": "Rib cage"
     },
     {
         "x": 1035,
         "y": 505,
+        "width": 175,
         "data": "Hip"
     },
     {
         "x": 1005,
         "y": 825,
+        "width":205,
         "data": "Knees"
     },
     {
         "x": 995,
         "y": 1040,
+        "width": 215,
         "data": "Ankles"
     },
     {
         "x": 1005,
         "y": 1115,
+        "width": 205,
         "data": "Toes"
     },
     {
-        "x": 465,
+        "x": 210,
         "y": 80,
+        "width":255,
         "data": "Back of head"
     },
     {
-        "x": 400,
+        "x": 210,
         "y": 220,
+        "width":190,
         "data": "Shoulder blades"
     },
     {
-        "x": 320,
+        "x": 210,
         "y": 415,
+        "width":110,
         "data": "Elbows"
     },
     {
-        "x": 460,
+        "x": 210,
         "y": 470,
+        "width":250,
         "data": "Spine"
     },
     {
-        "x": 460,
+        "x": 210,
         "y": 525,
+        "width":250,
         "data": "Sacrum"
     },
     {
-        "x": 405,
+        "x": 210,
         "y": 565,
+        "width":195,
         "data": "TroChander"
     },
     {
-        "x": 435,
+        "x": 210,
         "y": 615,
+        "width":225,
         "data": "Ischial tuberosity"
     },
     {
-        "x": 435,
+        "x": 210,
         "y": 1040,
+        "width":225,
         "data": "Ankles"
     },
     {
-        "x": 435,
+        "x": 210,
         "y": 1115,
+        "width":225,
         "data": "Heels"
     },
     {
         "x": 710,
         "y": 1190,
+        "width":500,
         "data": "Others"
     }
 ]
