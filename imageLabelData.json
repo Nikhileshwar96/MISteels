@@ -60,39 +60,39 @@
         "data": "Elbows"
     },
     {
-        "x": 155,
+        "x": 150,
         "y": 470,
-        "width":250,
+        "width":80,
         "data": "Spine"
     },
     {
         "x": 130,
         "y": 525,
-        "width":250,
+        "width":100,
         "data": "Sacrum"
     },
     {
-        "x": 95,
+        "x": 90,
         "y": 565,
-        "width":195,
+        "width":140,
         "data": "TroChander"
     },
     {
-        "x": 30,
+        "x": 25,
         "y": 615,
-        "width":225,
+        "width":205,
         "data": "Ischial tuberosity"
     },
     {
-        "x": 120,
+        "x": 145,
         "y": 1040,
-        "width":225,
+        "width":85,
         "data": "Ankles"
     },
     {
         "x": 155,
         "y": 1115,
-        "width":225,
+        "width":75,
         "data": "Heels"
     },
     {
