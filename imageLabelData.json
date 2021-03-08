@@ -44,13 +44,13 @@
     {
         "x": 50,
         "y": 80,
-        "width":170,
+        "width":160,
         "data": "Back of head"
     },
     {
         "x": 30,
         "y": 220,
-        "width":190,
+        "width":180,
         "data": "Shoulder blades"
     },
     {
@@ -80,17 +80,17 @@
     {
         "x": 25,
         "y": 615,
-        "width":205,
+        "width":200,
         "data": "Ischial tuberosity"
     },
     {
-        "x": 145,
+        "x": 150,
         "y": 1040,
         "width":85,
         "data": "Ankles"
     },
     {
-        "x": 155,
+        "x": 160,
         "y": 1115,
         "width":75,
         "data": "Heels"
