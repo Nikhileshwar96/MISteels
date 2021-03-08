@@ -42,13 +42,13 @@
         "data": "Toes"
     },
     {
-        "x": 50,
+        "x": 70,
         "y": 80,
         "width":160,
         "data": "Back of head"
     },
     {
-        "x": 30,
+        "x": 35,
         "y": 220,
         "width":180,
         "data": "Shoulder blades"
@@ -78,19 +78,19 @@
         "data": "TroChander"
     },
     {
-        "x": 25,
+        "x": 30,
         "y": 615,
         "width":200,
         "data": "Ischial tuberosity"
     },
     {
-        "x": 150,
+        "x": 145,
         "y": 1040,
         "width":85,
         "data": "Ankles"
     },
     {
-        "x": 160,
+        "x": 155,
         "y": 1115,
         "width":75,
         "data": "Heels"
@@ -99,6 +99,6 @@
         "x": 1210,
         "y": 1190,
         "width":75,
-        "data": "Others "
+        "data": "Others"
     }
 ]
